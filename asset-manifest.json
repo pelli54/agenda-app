@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/agenda-app/static/css/main.e9d58597.chunk.css",
+    "main.js": "/agenda-app/static/js/main.f2c31be0.chunk.js",
+    "main.js.map": "/agenda-app/static/js/main.f2c31be0.chunk.js.map",
+    "runtime~main.js": "/agenda-app/static/js/runtime~main.7d611c80.js",
+    "runtime~main.js.map": "/agenda-app/static/js/runtime~main.7d611c80.js.map",
+    "static/css/2.6c48c8c8.chunk.css": "/agenda-app/static/css/2.6c48c8c8.chunk.css",
+    "static/js/2.e956f005.chunk.js": "/agenda-app/static/js/2.e956f005.chunk.js",
+    "static/js/2.e956f005.chunk.js.map": "/agenda-app/static/js/2.e956f005.chunk.js.map",
+    "index.html": "/agenda-app/index.html",
+    "precache-manifest.ae35bc7d1df4d6eb2ff2ef084157abc4.js": "/agenda-app/precache-manifest.ae35bc7d1df4d6eb2ff2ef084157abc4.js",
+    "service-worker.js": "/agenda-app/service-worker.js",
+    "static/css/2.6c48c8c8.chunk.css.map": "/agenda-app/static/css/2.6c48c8c8.chunk.css.map",
+    "static/css/main.e9d58597.chunk.css.map": "/agenda-app/static/css/main.e9d58597.chunk.css.map"
+  }
+}
