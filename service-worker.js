@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/agenda-app/precache-manifest.d455a289163cb906fed020aabd35eebf.js"
+  "/agenda-app/precache-manifest.221f4e38af41e288334ea704ad214314.js"
 );
 
 self.addEventListener('message', (event) => {
