@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e0bab556b29494c16ccee1aa13ffcf23",
+    "revision": "4a8cd59e2f5cfa7c74c1f632b94dcbbb",
     "url": "/agenda-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/agenda-app/static/css/2.6c48c8c8.chunk.css"
   },
   {
-    "revision": "dc96497f4c87d5048d52",
+    "revision": "c3e377bbae76ec6ad1f1",
     "url": "/agenda-app/static/css/main.858af350.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/agenda-app/static/js/2.e6553bf6.chunk.js"
   },
   {
-    "revision": "dc96497f4c87d5048d52",
-    "url": "/agenda-app/static/js/main.2cf95e53.chunk.js"
+    "revision": "c3e377bbae76ec6ad1f1",
+    "url": "/agenda-app/static/js/main.6fd1a428.chunk.js"
   },
   {
     "revision": "9da32d787e9dbffa2006",
